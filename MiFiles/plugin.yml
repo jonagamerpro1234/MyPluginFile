@@ -1,0 +1,3 @@
+main: my.pluginfile.Main
+name: test
+version: 1
